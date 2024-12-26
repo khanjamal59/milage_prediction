@@ -15,9 +15,12 @@ This project is a mileage prediction model designed to estimate the fuel efficie
     Utilizes various machine learning algorithms (Polynomial regression, Linear Regression, Random forest regression).
     Visualizations of data and model performance metrics.
 --------------Data-----------
+
     The dataset used for training the model is 'https://github.com/YBI-Foundation/Dataset/raw/main/MPG.csv . 
 ------------- Model Training-------------
+
     To train the model, run the following command: python milage_prediction.py This will preprocess the data and train the model using the specified algorithms.
 
 -----------Results----------------
+
 The model's performance can be evaluated using metrics such as Mean Absolute Error (MAE) and R-squared.
